@@ -1,0 +1,22 @@
+{
+  "name": "indigo-rest",
+  "description": "Centralized indigo server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndigoProject/Indigo-rest.git"
+  },
+  "author": "Nickforall",
+  "bugs": {
+    "url": "https://github.com/IndigoProject/Indigo-rest/issues"
+  },
+  "homepage": "https://github.com/IndigoProject/Indigo-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}

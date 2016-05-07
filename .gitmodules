@@ -1,0 +1,3 @@
+[submodule "Indigo"]
+	path = Indigo
+	url = git@github.com:IndigoProject/Indigo.git
